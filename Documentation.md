@@ -85,7 +85,7 @@ Step-7: Use DFS to explore areas and Queue to manage tasks.
 Step-8: Stop.
 ## Flowchart
 
-
+![image alt](https://github.com/charvisri04-creator/Warehouse-Robot-Pathfinding/blob/0c5c9a6ab29d0582e3eb3a6d6e530a83c3eb5fd5/WhatsApp%20Image%202026-10-23%20at%201.34.11%20AM.jpeg)
 
 
 
